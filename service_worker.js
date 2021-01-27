@@ -12,7 +12,8 @@ var urlsToCache = [
     '/js/mixin_closing.js',
     '/js/jquery.fancybox.min.js',
     '/js/jquery.fancybox.min.css',
-    '/images/icon.png'
+    '/images/icon.png',
+    '/images/bk0.png'
 ];
 
 // インストール処理
