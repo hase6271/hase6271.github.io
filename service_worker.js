@@ -12,7 +12,7 @@ var urlsToCache = [
     '/js/mixin_closing.js',
     '/js/jquery.fancybox.min.js',
     '/js/jquery.fancybox.min.css',
-    '/images/icon.png',
+    'icon.png',
     '/images/bk0.png'
 ];
 
