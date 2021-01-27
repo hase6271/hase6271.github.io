@@ -118,9 +118,9 @@ var app = new Vue({
 			self = this;
 			return function (index) {
 				if (!self.cards[index].state) {
-					return 'images/' + self.cards[index].s + self.cards[index].n + '.png';
+					return self.cards[index].s + self.cards[index].n + '.png';
 				} else {
-					return 'images/bk0.png';
+					return 'bk0.png';
 				}
 			};			
 		},
